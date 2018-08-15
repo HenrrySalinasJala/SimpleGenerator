@@ -1,0 +1,15 @@
+﻿{
+  "dependencies": {
+    "Newtonsoft.Json": "9.0.1",
+    "NUnit": "3.10.1",
+    "SpecFlow": "2.3.1",
+    "SpecFlow.CustomPlugin": "2.3.1",
+    "System.ValueTuple": "4.3.0"
+  },
+  "frameworks": {
+    "net452": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

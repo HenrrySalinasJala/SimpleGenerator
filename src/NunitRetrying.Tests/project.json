@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "FluentAssertions": "5.3.2",
+    "NUnit": "3.10.1"
+  },
+  "frameworks": {
+    "net452": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

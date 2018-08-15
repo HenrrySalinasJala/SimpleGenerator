@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "log4net": "2.0.5",
+    "NUnit": "3.10.1"
+  },
+  "frameworks": {
+    "net452": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

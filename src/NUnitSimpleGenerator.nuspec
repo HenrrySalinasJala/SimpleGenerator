@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NUnitSimpleGenerator</id>
+    <version>0.0.2</version>
+    <authors>NUnitSimpleGenerator Team</authors>
+    <owners>NUnitSimpleGenerator Team</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NUnitSimpleGenerator has a simpler way of generating feature files on SpecFlow with the retry option that can be configure from the configuration- file.</description>
+    <releaseNotes>NUnit + SpecFlow simple generator</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>NUnit, SpecFlow, Retry, Generator</tags>
+    <dependencies>
+      <dependency id="log4net" version="2.0.5"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="NUnitRetrying\bin\Debug\NUnitRetrying.dll" target="lib\net452" />
+    <file src="NUnitSimpleGenerator.SpecFlowPlugin\bin\Debug\NUnitSimpleGenerator.SpecFlowPlugin.dll" target="lib\net452" />
+  </files>
+</package>
